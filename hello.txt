@@ -10,3 +10,4 @@ push 一下
 poll
 github
 github_poll
+idea_github
