@@ -1,6 +1,6 @@
 aaa master
 aaa hot-fix
-bbb 
+bbb ssh 
 ccc remote
 ddd
 eee
